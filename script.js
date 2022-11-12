@@ -50,7 +50,7 @@ function hash(string) {
     var sha = "77173ace11f118f4cfaaa33d7c35ec612a1ca67dae67d54a4a677a465124b087";
     
     if (sha == lehash){
-        document.getElementById('reponse').textContent = '@marcosorntino';
+        document.getElementById('lien').textContent = 'bien vu l\'aveugle';
 
         premiermdpok = true;
     } else {
